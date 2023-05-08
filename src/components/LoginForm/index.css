@@ -1,0 +1,16 @@
+.login-image {
+  width: 400px;
+  height: 300px;
+  margin-top: 30px;
+  margin-left: 35px;
+}
+.login-website-logo-desktop-image {
+  height: 50px;
+  width: 100px;
+}
+.login-form-container {
+  display: flex;
+  justify-content: space-between;
+  width: 1500px;
+  align-items: center;
+}

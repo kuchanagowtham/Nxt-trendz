@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.card-home {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-container {
+  width: 600px;
+  margin-left: 35px;
+  margin-top: 25px;
+}
+
+.heading {
+  font-size: 45px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.pera {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #d7dfe9;
+}
+
+.button-decaration {
+  background-color: #0b69ff;
+  padding: 10px;
+  border: none;
+  outline: none;
+  color: #e6f6ff;
+  border-radius: 5px;
+}
+
+.image-card {
+  margin-right: 35px;
+  margin-top: 25px;
+}
